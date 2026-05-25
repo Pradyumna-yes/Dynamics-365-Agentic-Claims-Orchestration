@@ -2,7 +2,7 @@
 
 > Enterprise Agentic AI Operations Blueprint for Insurance Claims Processing using Microsoft Dynamics 365, Copilot Studio, Dataverse, and Agent Flows.
 
-![Architecture](./architecture/architecture-diagram.png)
+![Architecture](./architecture/architecture.png)
 
 ---
 
@@ -262,36 +262,23 @@ Dynamics365-Agentic-Claims-Orchestration/
 ├── LICENSE
 ├── architecture/
 │   ├── architecture-diagram.png
-│   ├── orchestration-flow.png
-│   └── solution-overview.md
-│
 ├── solution/
 │   ├── DynamicsSolution.zip
-│   ├── AgentFlowExport.zip
-│   └── CopilotAgentExport.zip
-│
 ├── prompts/
 │   ├── parent-agent-prompt.md
 │   ├── fraud-agent-prompt.md
 │   ├── policy-agent-prompt.md
 │   └── communication-agent-prompt.md
-│
 ├── screenshots/
-│   ├── case-form.png
-│   ├── flow-trigger.png
-│   ├── orchestration-flow.png
-│   ├── ai-updated-case.png
-│   └── approval-status.png
-│
+│   ├── Agent_Flow.png
+│   ├── AI_insights.png
+│   ├── Case_form.png
 ├── docs/
 │   ├── setup-guide.md
 │   ├── architecture-explained.md
 │   ├── field-configuration.md
-│   ├── agent-flow-setup.md
-│   └── demo-scenarios.md
-│
 └── assets/
-    └── demo.gif
+    └── demo.mp4
 ```
 
 ---
@@ -482,19 +469,19 @@ It is not intended for direct production deployment without:
 
 ## Dynamics 365 Case Form
 
-_Add screenshot here_
+![Architecture](./screenshots/Case_form.png)
 
 ---
 
 ## Agent Flow Orchestration
 
-_Add screenshot here_
+![Architecture](./screenshots/Agent_Flow.png)
 
 ---
 
 ## AI-Enriched Case Record
 
-_Add screenshot here_
+![Architecture](./screenshots/AI_insights.png)
 
 ---
 
@@ -508,6 +495,6 @@ The result is an AI-native operational architecture capable of autonomous orches
 
 # Author
 
-Built as an enterprise AI orchestration prototype for Dynamics 365 insurance claims operations.
+Pradyumna.ie
 
 ---
