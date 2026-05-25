@@ -99,7 +99,7 @@ Dynamics 365 Case Updated
 ---
 
 # Solution Architecture
-
+![Architecture](./architecture/architecture.png)
 ## 1. Dynamics 365 Case Creation
 
 Insurance claims are created as Dynamics 365 Case records.
