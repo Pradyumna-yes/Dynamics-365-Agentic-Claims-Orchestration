@@ -384,7 +384,15 @@ Use Dataverse Update Row action to enrich the Case record with AI outputs.
 
 ---
 
-# Demo Scenario
+## 🎬 Solution Walkthrough
+
+This video demonstrates the complete enterprise multi-agent orchestration workflow built using Dynamics 365, Copilot Studio, Dataverse, and Agent Flows.
+
+<p align="center">
+  <a href="https://youtu.be/_nb2OBgBnAo">
+    <img src="https://img.youtube.com/vi/_nb2OBgBnAo/maxresdefault.jpg" width="800" alt="Dynamics 365 Multi Agent Orchestration Demo">
+  </a>
+</p>
 
 ## Example Claim
 
