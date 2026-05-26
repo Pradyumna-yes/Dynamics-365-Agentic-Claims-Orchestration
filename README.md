@@ -2,7 +2,7 @@
 
 > Enterprise Agentic AI Operations Blueprint for Insurance Claims Processing using Microsoft Dynamics 365, Copilot Studio, Dataverse, and Agent Flows.
 
-![Architecture](./architecture/architecture.png)
+![Architecture](./architecture/hero_images.png)
 
 ---
 
